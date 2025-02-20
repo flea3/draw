@@ -169,6 +169,21 @@
             <mxPoint x="354.33" y="19.685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KSh6KJUN78Y9kG90A8SH-30" value="Изм." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="78.74" y="1015.75" width="27.56" height="11.82" as="geometry" />
+        </mxCell>
+        <mxCell id="KSh6KJUN78Y9kG90A8SH-32" value="Лист" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="106.3" y="1015.75" width="39.37" height="11.82" as="geometry" />
+        </mxCell>
+        <mxCell id="KSh6KJUN78Y9kG90A8SH-33" value="№ докум." style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="145.67" y="1015.75" width="90.55" height="11.82" as="geometry" />
+        </mxCell>
+        <mxCell id="KSh6KJUN78Y9kG90A8SH-34" value="Подпись" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="236.22" y="1015.75" width="59.06" height="11.82" as="geometry" />
+        </mxCell>
+        <mxCell id="KSh6KJUN78Y9kG90A8SH-36" value="Дата" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="295.28" y="1015.75" width="39.37" height="11.82" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
